@@ -1,0 +1,6 @@
+opencv-contrib-python
+pymongo
+tensorflow
+pillow
+tkinter
+imutils
